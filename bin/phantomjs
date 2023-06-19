@@ -1,4 +1,4 @@
-#!/usr/bin/env nodejs
+#!/usr/bin/env nodebaby
 
 /**
  * Script that will execute the downloaded phantomjs binary.  stdio are
